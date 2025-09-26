@@ -24,8 +24,8 @@ Se implementa un sistema de catálogo de productos con **Laravel 12, Vue 3, Tail
 ## Requisitos
 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop) con **WSL2 habilitado**  
-- Node.js y npm (dentro de Sail)  
-- Composer (viene con Sail)  
+- Node.js y npm
+- Composer 
 
 ---
 
@@ -54,7 +54,7 @@ cd catalogo-laravel-vue
 
 -Laravel 12 (Backend + API REST)
 
--Vue 3 con Vite (Frontend)
+-Vue con Vite (Frontend)
 
 -TailwindCSS (Estilos)
 
