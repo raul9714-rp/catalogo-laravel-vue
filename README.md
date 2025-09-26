@@ -38,10 +38,11 @@ git clone https://github.com/raul9714-rp/catalogo-laravel-vue.git
 cd catalogo-laravel-vue
 
 -Instalar dependencias de PHP y JS y levantar los servicios con Sail:
-    ./vendor/bin/sail up -d
-    ./vendor/bin/sail artisan migrate --seed
-    ./vendor/bin/sail npm install
-    ./vendor/bin/sail npm run dev
+
+  -  ./vendor/bin/sail up -d
+  -  ./vendor/bin/sail artisan migrate --seed
+  -  ./vendor/bin/sail npm install
+  -  ./vendor/bin/sail npm run dev
 
 ## Uso
 
